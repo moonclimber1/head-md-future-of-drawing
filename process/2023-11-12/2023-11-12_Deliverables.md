@@ -24,7 +24,7 @@ Quote from psychologytoday.com:
 
 Grounding can help many people cope with their mental challenges. Grounding techniques are manyfold and and can include the following or more:
 
-refresh with ice water, cold shower, bath, scents, music, running, snapping rubber band, touching specific objects, yoga/stretching, mental math arithmetics, small electro shock, laughing, meditation, slow breathing, sexuality, nature, mud, walking barefoot, pets, mental games, doing art,dancing, ...
+refresh with ice water, cold shower, bath, scents, music, white noise, running, snapping rubber band, touching specific objects, yoga/stretching, mental math arithmetics, small electro shock, laughing, meditation, slow breathing, sexuality, nature, mud, walking barefoot, pets, mental games, doing art,dancing, ...
 
 I did experiments with people to try out grounding techniques. The first experiment was a more classic meditative experiment where people listened to breathing instructions and had to draw something with every breath. It was interesting to observe that after little time people started drawing abstract and focusing more on the movement than the drawn figure itself. The movement also helped them not to wander off with their thoughts while meditating.
 For the installation I want to think more broadly about the topic of grounding and not only about meditation. However I found this slow rhythm of the breathing very interesting and want to build further on that.
