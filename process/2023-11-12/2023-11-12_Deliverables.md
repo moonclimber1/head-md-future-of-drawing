@@ -47,9 +47,9 @@ Graphite has the interesting property, that the the electrical resistance of it 
 
 The fact that graphite is not only conductive but allows for continous changing of its electric properties, adds an analogue richness to the material that is interesting to be explored by sound. Ultimately a connection to analogue synthesizers can be drawn: Analogue synthesizers use reactive electronic components to create rich and warm sounds incorporating graphite potentiometeres as their main input and interaction technique.
 
-Example of using pencil graphite to modulate the brightness of an LED
+Example video of using pencil graphite to modulate the brightness of an LED  
+https://www.youtube.com/watch?v=aElHVTv-75M
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aElHVTv-75M?si=Z52jUSrPMZN3yLtJ&amp;start=22" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In addition to the electromagnetic properties of graphite, there are more properties of the pencil that might be interesting to be explored in a sonic way.
 
