@@ -1,4 +1,6 @@
-# 2023-11-03 Process
+# 2023-11-03 Process Log
+
+Today: Input with Laure, Brainstorming and discussions
 
 After some discussion wth fellow students I feel the urge to revise my concept / experience again.
 

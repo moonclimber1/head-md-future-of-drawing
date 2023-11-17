@@ -1,4 +1,4 @@
-# 2023-11-01 Process
+# 2023-11-01 Process Log
 
 Today I went on with my two previous ideas and did more experiments.
 
