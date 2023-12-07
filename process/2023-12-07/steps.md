@@ -63,7 +63,7 @@
 - audio cables
 
 **Dimensions**
-- ?? (tbd)
+- ?? (tbd -> need exact room dimensions for that)
 
 **API**
 
