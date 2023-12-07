@@ -58,6 +58,7 @@
 
 - Long, thin and flexible power / data cables on which floating objects with neopixels are attached to
 - Long enough USB cables for connections between arduino and computer
+- fancy cable for pencil
 - electric power cables
 - audio cables
 
