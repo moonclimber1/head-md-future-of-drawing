@@ -51,13 +51,18 @@
 **Power supply**
 
 - AC to DC converters for arduinos
-- Computer power supply
+- computer power supply
+- speakers power supply
 
 **Wiring**
 
 - Long, thin and flexible power / data cables on which floating objects with neopixels are attached to
 - Long enough USB cables for connections between arduino and computer
 - electric power cables
+- audio cables
+
+**Dimensions**
+- ?? (tbd)
 
 **API**
 
