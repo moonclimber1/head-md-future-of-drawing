@@ -1,24 +1,22 @@
 import { promises as fs } from "fs";
 
 const filePath = "../node-js/file.txt";
-const lineToAppend = "Hello world!";
 
-async function appendLineToFile() {
-
+async function appendLineToFile(string) {
   // Read current content of file
-  let currentContent = "";
-  try {
-    currentContent = await fs.readFile(filePath, "utf-8");
-  } catch (err) {
-    console.log("No file found, creating one");
-  }
+  // let currentContent = "";
+  // try {
+  //   currentContent = await fs.readFile(filePath, "utf-8");
+  // } catch (err) {
+  //   console.log("No file found, creating one");
+  // }
 
   try {
     // Append the new line
-    currentContent += `${lineToAppend}\n`;
+    // currentContent += `${string}\n`;
 
     // Write the updated content back to the file
-    await fs.writeFile(filePath, currentContent, { encoding: "utf-8", flag: "a" });
+    await fs.writeFile(filePath, `${string}\n`, { encoding: "utf-8", flag: "a" });
 
     console.log("Line appended successfully.");
   } catch (err) {
@@ -26,5 +24,18 @@ async function appendLineToFile() {
   }
 }
 
-// Call the async function
-appendLineToFile();
+process.stdin.setEncoding("utf8");
+
+process.stdin.on("data", (data) => {
+  const [value1, value2] = data.split(" ").map(Number);
+
+  // Multiply values by random factors
+  const result1 = value1 * Math.random();
+  const result2 = value2 * Math.random();
+
+  // Call the async function
+  appendLineToFile(result1 + ", " + result2);
+
+  // Send the results back to Python
+  process.stdout.write(`${result1 * result2}\n`);
+});
