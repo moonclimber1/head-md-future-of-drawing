@@ -8,5 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jonas Wolter",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "osc": "^2.4.4",
+    "serialport": "^12.0.0"
+  }
 }
