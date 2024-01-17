@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "NODE_EXTRA_CA_CERTS='$(mkcert -CAROOT)/rootCA.pem' node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}

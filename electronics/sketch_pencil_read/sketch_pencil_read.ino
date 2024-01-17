@@ -6,14 +6,15 @@ int raw3 = 0;
 int raw4 = 0;
 
 void setup(){
+  delay(2000); 
   Serial.begin(38400);
 }
 
 void loop(){
-  raw1 = analogRead(0);
-  raw2 = analogRead(1);
-  raw3 = analogRead(2);
-  raw4 = analogRead(3);
+  raw1 = analogRead(1);
+  raw2 = analogRead(2);
+  raw3 = analogRead(3);
+  raw4 = analogRead(4);
   Serial.print(raw1);
   Serial.print(",");
   Serial.print(raw2);

@@ -1,0 +1,16 @@
+{
+  "name": "ipad-web-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host --port 5500",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^5.0.10",
+    "vite-plugin-mkcert": "^1.17.1",
+    "vite-plugin-qrcode": "^0.2.3"
+  }
+}

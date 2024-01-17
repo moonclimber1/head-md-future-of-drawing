@@ -1,34 +1,31 @@
 # TODOs
 
-
-
 ## Current
-
-
 
 **Object**
 
-- [x] <span style="color:rgba(244,63,94,1)">Send improved 3D Model!</span>
+- [x] <span style="color:rgba(244,63,94,1)">Send improved 3D Model to Fred!</span>
 - [x] <span style="color:rgba(244,63,94,1)">Send model to Laure</span>
-- [ ] <span style="color:rgba(244,63,94,1)">Produce Pencil Attachement</span>
+- [x] <span style="color:rgba(244,63,94,1)">Produce Pencil Attachement</span>
+
+  ***
+
 - [ ] Prepare wood cover & holes for cables
-- [ ] Dremel missing cable channels
-- [ ] Sand edges
-- [ ] Glue parts together
-- [ ] Sand it
+- [x] Dremel missing cable channels
+- [x] Sand edges
+- [x] Glue parts together
+- [x] Sand it
 - [ ] Laquer it
 - [ ] Sand strips
 - [ ] Put graphite
 - [ ] Cables (screws & routing)
 - [ ] Put Electronics
 
-
-
 **Room Setting**
 
-- [ ] <span style="color:rgba(244,63,94,1)">Design table & box</span>
-- [ ] Produce table
-- [ ] Produce equipment box
+- [x] <span style="color:rgba(244,63,94,1)">Design table & box</span>
+- [x] Produce table
+- [x] Produce equipment box
 - [ ] Produce speaker stands
 - [ ] (Design floating objects)
 
@@ -50,22 +47,24 @@
 
 **Electronics**
 
-- [ ] Fritzing wire diagram
+- [x] Fritzing wire diagram
 - [ ] <span style="color:rgba(244,63,94,1)">Breadboard test</span>
 - [ ] <span style="color:rgba(244,63,94,1)">Solder everything</span>
 - [ ] Prepare for assembly
 
+**Git Log**
 
+- [ ] Look into git logs from class and last year
+- [ ] Write more about design process / xylophone etc.
 
 **Material to buy**
 
-- [ ] Clear lacquer / varnish spray
-- [ ] 6 nice screws for object
+- [x] Clear lacquer / varnish spray
+- [x] 6 nice screws for object
 - [ ] (white wires?)
 - [ ] female arduino connectors
-- [ ] Glue for cables
-
-
+- [x] Glue for cables
+- [x] Round wood sticks
 
 ## Old
 

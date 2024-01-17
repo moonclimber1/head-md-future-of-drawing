@@ -8,10 +8,8 @@ Github repository documenting process and code of the *Atelier Media Design 2023
 
 1. [Process Logs](process)  
    Logs every one or two working days
-2. [To-Do-List](process/To-Do-List.md)
-
+2. [To-Do-List](process/To-Do-List.md)  
    Current Tasks
-
 3. [Presentations](presentations)  
    PDFs of all presentations did during the development process
 4. [Form](form)  
@@ -20,7 +18,3 @@ Github repository documenting process and code of the *Atelier Media Design 2023
    Sound experimentations
 6. [Electronics](electronics)  
    Arduino / Electronic diagrams and code
-
-   
-
-
